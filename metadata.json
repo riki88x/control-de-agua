@@ -1,0 +1,6 @@
+{
+  "name": "Cobranza Agua",
+  "description": "Control y gestión de cobranza de servicio de agua potable con recibos, pagos pendientes y recordatorios automáticos por mensaje.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

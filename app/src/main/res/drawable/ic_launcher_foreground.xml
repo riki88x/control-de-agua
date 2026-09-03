@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Water droplet body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 C54,23 33,48 33,65 C33,76.6 42.4,86 54,86 C65.6,86 75,76.6 75,65 C75,48 54,23 54,23 Z" />
+    <!-- Droplet inner subtle highlight -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M54,28 C54,28 37,50 37,65 C37,74.4 44.6,82 54,82 C63.4,82 71,74.4 71,65 C71,50 54,28 54,28 Z" />
+    <!-- Receipt sheet card inside drop -->
+    <path
+        android:fillColor="#0077B6"
+        android:pathData="M43,48 L65,48 C66.1,48 67,48.9 67,50 L67,73 L63,70 L59,73 L55,70 L51,73 L47,70 L43,73 L43,50 C43,48.9 43.9,48 45,48 Z" />
+    <!-- Receipt lines and dollar/check details in crisp white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,53 L63,53 L63,55 L47,55 Z" />
+    <path
+        android:fillColor="#90E0EF"
+        android:pathData="M47,58 L59,58 L59,60 L47,60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,63 L55,63 L55,65 L47,65 Z" />
+    <!-- Tiny water droplet shine on top left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,40 C42,43 40,48 40,53 C39,53 39,47 42,41 C43,39 44,38 44,40 Z" />
+</vector>
